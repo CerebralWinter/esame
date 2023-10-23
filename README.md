@@ -9,5 +9,5 @@ Sono stati predisposti gli stili globali, tramite la classe *, per azzerare marg
 ## aggiunta degli elementi html
 Ai file.html della consegna è stato necessario aggiungere i link element al file style.css ed alle risorse online (bootstrap) che permettono di attingere a librerie sempre online.
 ## versionamento
-per il versionamento, ho creato un nuovo repository remoto, di cui ho fatto il clone tramite vscode. al clone ho aggiunto i file dell'esercizio, e sempre tramite vscode ho effettuato  
+per il versionamento, ho creato un nuovo repository remoto, di cui ho fatto il clone tramite vscode. Al clone ho aggiunto i file dell'esercizio, e sempre tramite vscode ho potuto effettuare  il commit e sincronizzare  la cartella locale con quella remota.
 
